@@ -1,16 +1,30 @@
-## Hi there 👋
+# Daniel Vikulov
 
-<!--
-**daniil-vikulov/daniil-vikulov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my professional space!
 
-Here are some ideas to get you started:
+I'm a driven software- and ML-engineer, eager to overcome challenges and ready for breakthroughs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- **Languages:** C++, Java, Python
+- **Specializations:** Software engineering, Machine Learning
+- **Keen on:** Image processing, Video streaming, Content delivery, GPU utilization, Rigid body physics
+
+## 📚 Education
+
+- **Higher School of Economics**
+    - pursuing a BCS in Data Analysis & AI
+
+- **IT School Samsung**
+    - Java software development
+
+- **JetBrains Summer Intern**
+    - Kotlin Android development
+- **Phys-Math Lyceum №239**
+
+## 🔗 Contact Me
+
+- **Email:** [39g60bx15@gmail.com](mailto:39g60bx15@gmail.com)
+- **Telegram**: [t.me:studvik13](https://t.me/studvik13)
+
+Feel free to connect with me for collaboration or just to say hi!
