@@ -8,7 +8,7 @@ I'm a driven software- and ML-engineer, eager to overcome challenges and ready f
 
 - **Languages:** C++, Java, Python
 - **Specializations:** Software engineering, Machine Learning
-- **Keen on:** Image processing, Video streaming, Content delivery, GPU utilization, Rigid body physics
+- **Keen on:** Image processing, Video streaming, Content delivery, GPGPU, Rigid body physics
 
 ## 📚 Education
 
