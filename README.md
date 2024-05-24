@@ -13,7 +13,7 @@ I'm a driven software- and ML-engineer, eager to overcome challenges and ready f
 ## 📚 Education
 
 - **Higher School of Economics**
-    - pursuing a BCS in Data Analysis & AI
+    - pursuing BCS in Data Analysis & AI
 
 - **IT School Samsung**
     - Java software development
